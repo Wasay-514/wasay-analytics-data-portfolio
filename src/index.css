@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, sans-serif;
+  background: #0f0b08;
+}
+
+.section {
+  padding: 90px 0;
+}
+
+.input {
+  width: 100%;
+  background: #0f0b08;
+  border: 1px solid #3a281b;
+  padding: 14px 16px;
+  border-radius: 4px;
+  color: white;
+  font-size: 13px;
+  outline: none;
+}
+
+.input::placeholder {
+  color: #8f7f72;
+}
+
+.input:focus {
+  border-color: #c98b55;
+}
+
+.bg-hero {
+  background:
+    radial-gradient(circle at 75% 30%, rgba(201, 139, 85, 0.28), transparent 22%),
+    radial-gradient(circle at 15% 20%, rgba(231, 183, 127, 0.12), transparent 18%),
+    linear-gradient(90deg, #0b0806 0%, #1a120c 55%, #2a1a10 100%);
+}
