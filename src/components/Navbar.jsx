@@ -48,13 +48,13 @@ export default function Navbar({ theme, toggleTheme }) {
       <div className="max-w-5xl mx-auto px-4">
         <div className="bg-[#120c08]/95 border border-[#3a281b] rounded-full px-5 py-3 flex items-center justify-between shadow-lg backdrop-blur-xl">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-[#1a120c] border border-[#c98b55] flex items-center justify-center font-bold text-[#c98b55]">
+            {/* <div className="w-10 h-10 rounded-xl bg-[#1a120c] border border-[#c98b55] flex items-center justify-center font-bold text-[#c98b55]">
               📊
-            </div>
+            </div> */}
 
             <div>
               <h1 className="text-sm font-bold leading-none">
-                WasayXfolio<span className="text-[#c98b55]">•</span>
+                Mr. Wasay<span className="text-[#c98b55]">•</span>
               </h1>
               <p className="text-[10px] text-[#b8aaa0]">Data Portfolio</p>
             </div>

@@ -39,6 +39,7 @@ body {
     radial-gradient(circle at 15% 20%, rgba(231, 183, 127, 0.12), transparent 18%),
     linear-gradient(90deg, #0b0806 0%, #1a120c 55%, #2a1a10 100%);
 }
+
 /* Light Theme Overrides */
 [data-theme="light"] body {
   background: #f7f1e8;
