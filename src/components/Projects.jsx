@@ -48,8 +48,9 @@
 // }
 
 
-import gencvImg from "../assets/projects/gencv.png";
+// import gencvImg from "../assets/projects/gencv.png";
 // import gencvImg from "src/assets/projects/Gencv.png";
+import gencvImg from "../assets/projects/Gencv.png";
 import debateiqImg from "../assets/projects/debateiq.png";
 import hrImg from "../assets/projects/hr.png";
 import superstoreImg from "../assets/projects/superstore.png";
