@@ -32,7 +32,7 @@ My focus areas include:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,js,git,github,vscode,linkedin" />
+<img src="https://skillicons.dev/icons?i=python,react,js,git,github,vscode,linkedin,postgres" />
 
 </p>
 
