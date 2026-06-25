@@ -33,6 +33,13 @@ My focus areas include:
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,react,js,git,github,vscode" />
+<img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database-336791?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Excel-Reporting-217346?style=flat-square&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Computing-013243?style=flat-square&logo=numpy"/>
+
 
 </p>
 
